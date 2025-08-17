@@ -57,13 +57,7 @@ This system prevents duplicate votes, reduces fraud, supports remote access, and
 4. **Vote Recording**: Vote securely stored in `Votes.csv`.
 5. **Fraud Prevention**: Duplicate voting is automatically blocked.
 
----
 
-## 👨‍💻 Author
 
-**Mohammad Noor**
-📧 Email: *(Add your email here)*
-🌐 GitHub: [MohammadNoor12345](https://github.com/MohammadNoor12345)
 
----
 
